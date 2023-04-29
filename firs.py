@@ -6,3 +6,6 @@ c= 11
 print(a*b*c)
 t= 10
 print(t)
+x= 11
+dd=15
+print(dd)
